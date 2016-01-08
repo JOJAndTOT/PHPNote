@@ -48,5 +48,4 @@ spl_autoload_register(function($className){
     echo 1;  
     require $className . '.php';  
 }  
-spl_autoload_register('load1'); //将load1函数注册到自动加载队列中。  
-```
+spl_autoload_register('load1'); //将load1函数注册到自动加载队列中。  ```
