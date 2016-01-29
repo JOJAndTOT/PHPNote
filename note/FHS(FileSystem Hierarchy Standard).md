@@ -49,18 +49,18 @@
 |/|/|整个目录结构的起始点|
 |/bin|binaries|用来存放最常用的二进制命令|
 |/boot|Boot|包含引导Linux的重要文件，如grub和内核文件等|
-|/dev|Devices|所有设备都在该目录下,包括硬盘和显示器等
-|/etc|etc|系统的所有配置文件都放在他下面
-|/home|home|存放个用户的家目录($HOME)机器文件和配置
-|/lib|Libraries|系统的库文件,有点像Windows的Program Files
-|/lost+found|lost+found|用于存放系统异常时丢失的文件(如突然宕机)，以利于回复
-|/media|meida|用于加载各种媒体，如：光盘、软盘等
-|/mnt|mount|用于加载各种文件系统
-|/opt|optionally|用于存放安装的“可选(optionally)”程序
-|/proc|Processes|包含进程等信息，是内存的映射，不是真实目录
-|/root|root|该目录是root用户的家目录($HOME)
-|/sbin|System-Only binaries|用于存放系统专用的二进制命令
-|/sys|System|用于存放系统信息
-|/tmp|temporary files|用于存放临时文件
-|/usr|User|用于存放普通用户的应用程序、库文件和文档等
-|/var|Variable files|用于存放那些在时间、大小、内容上经常变化的文件
+|/dev|Devices|所有设备都在该目录下,包括硬盘和显示器等|
+|/etc|etc|系统的所有配置文件都放在他下面|
+|/home|home|存放个用户的家目录($HOME)机器文件和配置|
+|/lib|Libraries|系统的库文件,有点像Windows的Program Files|
+|/lost+found|lost+found|用于存放系统异常时丢失的文件(如突然宕机)，以利于回复|
+|/media|meida|用于加载各种媒体，如：光盘、软盘等|
+|/mnt|mount|用于加载各种文件系统|
+|/opt|optionally|用于存放安装的“可选(optionally)”程序|
+|/proc|Processes|包含进程等信息，是内存的映射，不是真实目录|
+|/root|root|该目录是root用户的家目录($HOME)|
+|/sbin|System-Only binaries|用于存放系统专用的二进制命令|
+|/sys|System|用于存放系统信息|
+|/tmp|temporary files|用于存放临时文件|
+|/usr|User|用于存放普通用户的应用程序、库文件和文档等|
+|/var|Variable files|用于存放那些在时间、大小、内容上经常变化的文件|
